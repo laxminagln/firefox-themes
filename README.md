@@ -4,4 +4,4 @@ The themes that I have built for firefox where you can use it for both PC and sm
 
 You can update the theme and upload it to firefox if you wish by editing the .xpi file
 
-For solaraize - https://addons.mozilla.org/addon/solaraize/
+solaraize - https://addons.mozilla.org/addon/solaraize/
