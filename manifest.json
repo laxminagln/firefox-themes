@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "solaraize",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(13, 58, 82)",
+      "toolbar_text": "rgb(242, 245, 113)",
+      "frame": "rgb(20, 74, 111)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(245, 100, 38)",
+      "tab_line": "rgb(248, 112, 140)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(98, 102, 183)",
+      "tab_loading": "rgb(248, 112, 140)"
+    }
+  }
+}
